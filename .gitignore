@@ -2,7 +2,7 @@
 
 out/
 
-.iml
+*.iml
 
 
 ### IntelliJ IDEA ###
